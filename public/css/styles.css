@@ -1,0 +1,74 @@
+nav{
+  background-color: #30e3ca;
+}
+
+body {
+  background-color: #e4f9f5;
+}
+
+.activeUsers{
+  background-color: #40514e;
+  width: 15%;
+  height: 20rem;
+  display: inline-block;
+  margin:0;
+  font-size: 1.5rem;
+  padding: 1rem;
+  color: black;
+}
+
+.scroll {
+  overflow-y: auto;
+  height: 50rem;
+  width: 50rem;
+  padding: 0;
+  margin: 5rem 33.7rem 0 auto;
+  background-color: white;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  display: inline-block;
+  float: right;
+}
+
+.message-recieved {
+  border-radius: 10px;
+  width: 15rem;
+  display: block;
+  height: auto;
+  margin: 1.2rem;
+  padding: 0.2rem;
+  padding-left: 0.7rem;
+  background-color: #e4f9f5;
+}
+
+ h6{
+   margin-bottom: 0;
+ }
+
+ .scroll p{
+   margin-bottom: 0.2rem;
+ }
+
+.input {
+  margin: 0 auto 0 auto;
+  width: 50rem;
+}
+
+.btn {
+  border-top-right-radius: 0;
+}
+.form-control{
+  border-top-left-radius: 0;
+}
+
+.msg-sent{
+  background-color: #30e3ca;
+  border-radius: 10px;
+  width: 15rem;
+  display: block;
+  height: auto;
+  margin: 1.2rem;
+  padding: 0.2rem;
+  padding-left: 0.7rem;
+
+}
